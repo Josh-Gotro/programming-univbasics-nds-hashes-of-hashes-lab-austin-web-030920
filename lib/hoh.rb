@@ -64,6 +64,6 @@ def naming_system
     }
   }
 }
-puts hoh[sub_category][sub_category][sub_category][sub_category][sub_category][sub_category][sub_category]
+
 
 end
