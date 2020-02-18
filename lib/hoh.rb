@@ -66,5 +66,4 @@ def naming_system
     }
   }
 }
-binding.pry
 end
