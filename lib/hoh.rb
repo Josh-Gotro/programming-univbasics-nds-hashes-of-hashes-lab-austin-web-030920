@@ -64,6 +64,6 @@ def naming_system
     }
   }
 }
-p hoh
+hoh[label]
 
 end
