@@ -1,5 +1,5 @@
 require 'pry'
-
+# binding.pry
 # Build a nested HoH of the classification of biological life on Earth based
 # on these commented-out snippets assigned to PORTION_1-PORTION_4. Return
 # that HoH as the return value for the method "naming_system."
@@ -59,7 +59,7 @@ def naming_system
             sub_category: {
               label: "Species",
               sub_category: {}
-              binding.
+              binding.pry
             }
           }
         }
