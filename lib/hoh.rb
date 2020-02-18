@@ -64,5 +64,5 @@ def naming_system
     }
   }
 }
-print hoh
+hoh
 end
