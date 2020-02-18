@@ -64,6 +64,6 @@ def naming_system
     }
   }
 }
-hoh[label]
+hoh[label][label][label][label][label][label][label][sub_category]
 
 end
